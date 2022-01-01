@@ -1,0 +1,2 @@
+DFS:
+In python3, @lru_cache(maxsize=None) before defining dfs can give you recursion with memorization.
